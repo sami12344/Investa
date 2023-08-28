@@ -16,7 +16,7 @@ const Logo = ({ className, children }: LogoProps) => {
           className
         )}
       >
-        {children || 'Investa'}
+        {children || ' Investa'}
       </h2>
     </Link>
   )
