@@ -32,7 +32,7 @@ const Hero = () => {
               <Button variant="outline" href="https://youtu.be/vviFia-Stqk">
                 <BsPlayCircle className="text-xl" />
                 <span className="ml-2.5">Watch the video</span>
-              </Button>
+              </Button> 
             </div>
           </div>
           {/* Left side */}
