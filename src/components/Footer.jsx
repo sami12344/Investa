@@ -29,11 +29,11 @@ const Footer = () => {
         <div className='container mx-auto grid md:grid-cols-2 lg:grid-cols-5 gap-8 px-6'>
           <div className='col-span-1 md:col-span-2 lg:col-span-1'>
             <div className='flex items-center mb-4'>
-             <Logo />
-         
+              <Logo className='text-gray-200 hover:text-white' />
             </div>
             <p className='text-sm'>
-              Trustworthy futuristic investment for long-term well-being.
+              &ldquo; Empowering Your Financial Future: Discover Prosperity with
+              Investa&apos;s Secure and Innovative Investment Solutions. &rdquo;
             </p>
           </div>
           <div className='col-span-1 md:col-span-2 lg:col-span-1'>
@@ -69,11 +69,11 @@ const Footer = () => {
           <div className='col-span-1 md:col-span-2 lg:col-span-1'>
             <h3 className='text-lg font-semibold mb-3'>Follow Us</h3>
             <div className='flex space-x-3'>
-                     <FaFacebook className="text-2xl" />
-            <FaTwitter className="text-2xl" />
-            <FaLinkedin className="text-2xl" />
-            <FaInstagram className="text-2xl" />
-            <FaYoutube className="text-2xl" />
+              <FaFacebook className='text-2xl' />
+              <FaTwitter className='text-2xl' />
+              <FaLinkedin className='text-2xl' />
+              <FaInstagram className='text-2xl' />
+              <FaYoutube className='text-2xl' />
 
               {/* Other social links */}
             </div>
@@ -83,7 +83,7 @@ const Footer = () => {
             <form className='flex space-x-0'>
               <input
                 type='email'
-                className='border rounded-l px-3 py-2 w-full focus:outline-none'
+                className='border rounded-l px-3 py-2 w-full focus:outline-none text-gray-500'
                 placeholder='Your email'
               />
               <button
@@ -103,7 +103,7 @@ const Footer = () => {
         </div>
       </motion.footer>
     </ScrollTrigger>
-  );
+  )
 };
 
 export default Footer;
