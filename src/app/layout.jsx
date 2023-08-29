@@ -6,7 +6,8 @@ export const metadata = {
   title: 'Investa || Empowering Your Financial Future',
   description:
     "Discover prosperity with Investa&apos;s secure and innovative investment solutions. Empower your financial future with us.'",
-  author:"Sami Islam"
+  image: 'https://i.ibb.co/BcfhF0j/Frame-14.png',
+  author: 'Sami Islam',
 }
 
 export default function RootLayout({ children }) {
