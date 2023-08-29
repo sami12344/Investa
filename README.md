@@ -68,8 +68,10 @@ Join us in shaping a prosperous future through strategic investment with Investa
 
 ### Desktop view:
 
+<h1 align="center">
 
-<img src="https://github.com/sami12344/Investa/assets/77746252/e4d6e1b7-05b9-43eb-a3e7-662558a29eda" width="75%" align="center"/>
+  <img src="https://github.com/sami12344/Investa/assets/77746252/e4d6e1b7-05b9-43eb-a3e7-662558a29eda" width="75%"/>
+</h1>
 
 ## Installation
 
