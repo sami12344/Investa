@@ -1,7 +1,9 @@
 
-# Investa Next.js Website
+<img src="https://github.com/sami12344/Investa/assets/77746252/a0a4b01a-4a47-4deb-b66f-ee18692a249e" width="100%"/>
 
-<img src="https://github.com/sami12344/Investa/assets/77746252/301adb9b-9979-437c-82f1-25c3769ca049" width="100%"/>
+<h1 align="center">Investa NextJS website</h1>
+
+
 
 Welcome to the Investa website built using Next.js, Tailwind CSS, Headless UI, and Framer Motion. This project aims to provide a modern and responsive website for Investa Labs, Inc., showcasing their innovative investment solutions.
 
