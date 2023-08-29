@@ -62,7 +62,7 @@ Join us in shaping a prosperous future through strategic investment with Investa
 - Framer Motion
 - Headless UI
 - React Helmet
-- ... (add other libraries you use)
+
 
 
 
