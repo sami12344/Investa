@@ -1,7 +1,7 @@
 
 <img src="https://github.com/sami12344/Investa/assets/77746252/a0a4b01a-4a47-4deb-b66f-ee18692a249e" width="100%"/>
 
-<h1 align="center">Investa NextJS website</h1>
+<h1 align="center">Investa Next JS Website</h1>
 
 
 
