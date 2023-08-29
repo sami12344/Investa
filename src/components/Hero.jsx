@@ -5,11 +5,10 @@ import Image from "next/image";
 import Button from "./Button";
 import { BsPlayCircle } from "react-icons/bs";
 import playStore from "@/images/playStore.png";
-
+import ExtraLogos from "./ExtraLogos";
 import BackgroundDesign from "./BackgroundDesign";
 import PhoneFrame from "./PhoneFrame";
 import AppFeature from "./AppFeature";
-import ExtraLogos from "./Extralogos";
 
 const Hero = () => {
   return (
@@ -32,7 +31,7 @@ const Hero = () => {
               <Button variant="outline" href="https://youtu.be/vviFia-Stqk">
                 <BsPlayCircle className="text-xl" />
                 <span className="ml-2.5">Watch the video</span>
-              </Button> 
+              </Button>
             </div>
           </div>
           {/* Left side */}
